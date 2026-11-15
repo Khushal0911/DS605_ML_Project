@@ -1,0 +1,5 @@
+feature,min,median,p95,p99,max,outlier_count,outlier_percent
+url_length,8,48.0,112.0,175.0,25523,20433,4.1
+html_length,23,122374.0,1105749.7999999998,2205827.84,76259682,45214,9.07
+html_form_count,0,1.0,5.0,11.0,1008,20103,4.03
+html_script_count,0,21.0,113.0,218.0,4364,25311,5.08
